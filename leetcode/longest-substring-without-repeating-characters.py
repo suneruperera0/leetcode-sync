@@ -1,7 +1,7 @@
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
         """
-        #farm
+        #farmss
         :type s: str
         :rtype: int
         """
