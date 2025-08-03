@@ -1,1 +1,7 @@
-PythonAuto1Ln 1, Col 1You need to log in / sign up to run or submit
+class Solution(object):
+    def twoSum(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
